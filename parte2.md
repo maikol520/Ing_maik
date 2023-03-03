@@ -59,3 +59,13 @@ El caso número seis es la modificación del DNS  do donde como en el caso anter
  <img src="https://github.com/maikol520/Ing_maikol1/blob/main/imagnes/p27.png?raw=true" width="400" />
 <h3></h3>
   </p>
+  
+En este caso se edita el ´proxy donde por medio de comandos se entra al archivo proxy y se modifica directamente por el usuario 
+
+<p align="center">
+ <img src="https://github.com/maikol520/Ing_maikol1/blob/main/imagnes/p28.png?raw=true" width="400" />
+<h3></h3>
+  </p>
+
+
+
